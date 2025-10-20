@@ -42,39 +42,6 @@ Etapas principais:
 - Visualização: construção de dashboards em Power BI e Plotly Dash.
 - Validação: avaliação das previsões com métricas de erro (MAE, RMSE) e retroalimentação com novos dados.
 
-# Diagrama de Arquitetura do Projeto
-+---------------------------+
-|   Fontes de Dados         |
-|---------------------------|
-| INE Angola (PDF/Excel)    |
-| UNWTO / Banco Mundial API |
-| WTTC, OSM, Google Places  |
-+------------+--------------+
-             |
-             v
-+---------------------------+
-|   Camada de Integração    |
-| (Python: Pandas, Requests)|
-+------------+--------------+
-             |
-             v
-+---------------------------+
-|   Armazenamento de Dados  |
-| (CSV / PostgreSQL / Cloud)|
-+------------+--------------+
-             |
-             v
-+---------------------------+
-|   Modelagem Preditiva     |
-| (Prophet / Scikit-Learn)  |
-+------------+--------------+
-             |
-             v
-+---------------------------+
-|   Visualização e Dashboards|
-| (Power BI / Dash / Streamlit)|
-+---------------------------+
-
 # Fontes de Dados
 Instituto Nacional de Estatística de Angola (INE)	para chegadas, hospedagens, receitas, emprego;
 Organização Mundial do Turismo (UNWTO)	para séries globais de turismo e receitas;
