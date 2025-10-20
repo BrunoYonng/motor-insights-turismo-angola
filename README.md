@@ -8,6 +8,7 @@ Uma Plataforma de análise e previsão inteligente para apoiar o planeamento tur
 O projeto integra dados do Instituto Nacional de Estatística (INE), Banco Mundial e Organização Mundial do Turismo (UNWTO) para gerar dashboards governamentais com indicadores económicos, sociais e impactos ambientais.
 
 #Objetivos
+
 Objectivo Geral: 
 Desenvolver um sistema que analise, integre e visualize dados turísticos para apoiar o planeamento sustentável e a tomada de decisão governamental.
 
