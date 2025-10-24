@@ -3,7 +3,7 @@
 Plataforma de dashboards e previsão de dados turísticos para o planeamento sustentável de Angola.
 
 # Visão geral
-Uma Plataforma de análise e previsão inteligente para apoiar o planeamento turístico sustentável de Angola, alinhada aos Objetivos de Desenvolvimento Sustentável (ODS 8, 9, 11, 13 e 17).
+Uma Plataforma de análise e previsão inteligente para apoiar o planeamento turístico sustentável de Angola, alinhada aos Objetivos de Desenvolvimento Sustentável (ODS 8, 11, 12, 14 e 15).
 
 O projeto integra dados do Instituto Nacional de Estatística (INE), Banco Mundial e Organização Mundial do Turismo (UNWTO) para gerar dashboards governamentais com indicadores económicos, sociais e impactos ambientais.
 
