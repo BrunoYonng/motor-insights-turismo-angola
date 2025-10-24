@@ -31,30 +31,6 @@ Nos últimos anos, instituições como o Banco Mundial (2023) e o Programa das N
 Este projeto surge, portanto, como resposta a essas lacunas, propondo uma solução tecnológica inovadora que combina aprendizagem automática, visualização interativa e análise espaço-temporal, aplicadas ao turismo sustentável.
 Além disso, o projeto apoia diretamente as metas da Agenda 2030, integrando princípios de inovação, sustentabilidade e inclusão.
 
-# Metodologia
-A metodologia adotada combina técnicas qualitativas e quantitativas, sustentadas num método hipotético-dedutivo.
-
-Etapas principais:
-- Recolha e integração de dados: extração automática de dados de turismo, economia e ambiente via APIs e relatórios.
-- Limpeza e normalização: padronização de formatos, unidades e períodos temporais.
-- Análise exploratória: identificação de padrões sazonais e correlações.
-- Modelagem preditiva: aplicação de modelos como Prophet e Random Forest para previsão de visitantes e ocupação.
-- Visualização: construção de dashboards em Power BI e Plotly Dash.
-- Validação: avaliação das previsões com métricas de erro (MAE, RMSE) e retroalimentação com novos dados.
-
-# Fontes de Dados
-Instituto Nacional de Estatística de Angola (INE)	para chegadas, hospedagens, receitas, emprego;
-Organização Mundial do Turismo (UNWTO)	para séries globais de turismo e receitas;
-Banco Mundial (World Bank Data)	para indicadores económicos e ambientais;
-WTTC, para o impacto económico do turismo;
-OpenStreetMap / Google Places	Localização de pontos turísticos e mobilidade.
-
-# Revisão de Literatura
-O uso de modelos de previsão baseados em dados abertos tem sido amplamente explorado para apoiar políticas públicas.
-De acordo com Gunter e Önder (2022), a aplicação de machine learning ao turismo permite detetar padrões de comportamento e otimizar o planeamento de destinos. Já Hu e Song (2023) destacam que o uso de dashboards inteligentes promove uma governança turística mais participativa e sustentável, permitindo que governos e comunidades tomem decisões informadas em tempo real.
-
-Nos países africanos, iniciativas semelhantes de integração de dados turísticos têm demonstrado benefícios significativos na gestão territorial (Adepoju & Akinsola, 2021), reforçando o papel da transformação digital no desenvolvimento sustentável.
-Assim, o nosso projeto está alinhado às tendências contemporâneas de turismo inteligente e sustentabilidade digital, oferecendo uma solução aplicável e inovadora ao contexto angolano.
 
 # Referências
 Adepoju, A., & Akinsola, O. (2021). Digital transformation and tourism development in Sub-Saharan Africa. African Journal of Sustainable Development, 11(3), 45–62.
