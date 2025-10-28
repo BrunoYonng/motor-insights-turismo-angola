@@ -14,20 +14,16 @@ O sistema combina **Ciência de Dados** e **Análise Preditiva** para apoiar pol
 - Apoiar o planeamento económico e ambiental.  
 - Promover a sustentabilidade no setor do turismo.  
 
-# Estrutura do Projeto 
-Motor_de_Insights/
-│
-├── data/
-├── docs/
-├── notebooks/ 
-├── src/
-│   └── motor_insights_app/
-│       ├── app.py      
-│       ├── assets/      
-│       ├── data_demo/   
-│       └── pages/       
+# Estrutura do Projecto
+<img width="1447" height="319" alt="Capturar" src="https://github.com/user-attachments/assets/8a51d0a7-62f2-48c2-8e32-416f85251b0f" />
 
-└── README.md    
+
+
+
+
+
+
+
 
 # Tecnologias Utilizadas
 
@@ -58,7 +54,8 @@ notebooks/Motor_de_Insights.ipynb
 Dentro da pasta `src/motor_insights_app/`:
 streamlit run app.py
 
-Referências
+# Referências
+
 Adepoju, A., & Akinsola, O. (2021). Digital transformation and tourism development in Sub-Saharan Africa. African Journal of Sustainable Development, 11(3), 45–62.
 Gunter, U., & Önder, I. (2022). Forecasting tourism demand with machine learning models: An empirical comparison. Tourism Management, 91, 104489.
 Hu, Y., & Song, H. (2023). Smart tourism governance and data-driven decision making. Journal of Sustainable Tourism, 31(4), 621–640.
