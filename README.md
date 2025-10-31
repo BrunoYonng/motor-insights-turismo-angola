@@ -16,30 +16,9 @@ O sistema combina um **notebook analítico** (para geração e treino de modelos
 - Promover a sustentabilidade no setor do turismo.
 
 # Estrutura do Projeto
+<img width="828" height="584" alt="Captura de Tela (42)" src="https://github.com/user-attachments/assets/45aaf46e-1baa-44dd-931c-fb0421f5b394" />
 
-motor-insights-turismo-angola/
-│
-├── data/
-│   ├── raw/
-│   │   └── dados_sinteticos.csv         ← dataset sintético gerado a partir do Pytohn notebook
-│
-├── docs/                                
-│
-├── notebooks/
-│   └── motor-insights-turismo-angola.ipynb  ← Python notebook (pipeline completo)
-│
-├── src/
-│   └── Motor_de_Insights_Streamlit/
-│       ├── app.py                       ← aplicação Streamlit interativa
-│       ├── utils.py                     ← funções auxiliares (carregar modelo, logs, etc.)
-│       ├── models/
-│       │   └── modelo_sintetico.pkl     ← modelo RandomForest treinado
-│       ├── assets/
-│       │      
-│       └── logs.csv                     ← registos de sessão (login/logout)
-│
-├── requirements.txt                     ← requisitos Python do projeto
-└── README.md                            
+                      
 
 
 # Instalação e Requisitos
@@ -112,7 +91,7 @@ Os acessos e logouts ficam registados em `src/Motor_de_Insights_Streamlit/logs.c
 - **Gerar Relatórios** — exportação (demo, pronto para PDF/DOCX/PPTX).  
 - **Logs** — registo de sessões de utilizadores.
 
-# **Tecnologias Utilizadas**
+# Tecnologias Utilizadas
 | Categoria | Tecnologias |
 |------------|-------------|
 | Linguagem  | Python |
@@ -134,12 +113,12 @@ Os acessos e logouts ficam registados em `src/Motor_de_Insights_Streamlit/logs.c
 | 5    | Modelagem e validação               | Modelos preditivos e métricas de desempenho |
 | 6    | Implementação                       | Protótipo web interativo (Streamlit).       |
 
-#Licença
+# Licença
 Este projeto foi desenvolvido com fins académicos e de demonstração.  
 Todos os dados sintéticos são simulados para uso educacional e não representam valores oficiais.
 Este protótipo une ciência de dados, sustentabilidade e gestão pública — transformando informações em decisões inteligentes para o turismo angolano.
 
-Referências
+# Referências
 Adepoju, A., & Akinsola, O. (2021). Digital transformation and tourism development in Sub-Saharan Africa. African Journal of Sustainable Development, 11(3), 45–62. 
 Gunter, U., & Önder, I. (2022). Forecasting tourism demand with machine learning models: An empirical comparison. Tourism Management, 91, 104489. 
 Hu, Y., & Song, H. (2023). Smart tourism governance and data-driven decision making. Journal of Sustainable Tourism, 31(4), 621–640. 
