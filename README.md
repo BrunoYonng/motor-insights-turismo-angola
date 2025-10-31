@@ -1,7 +1,7 @@
 # FTL BOOTCAMP - ANGOLA - GRUPO Nº 17 - Projecto Final
 # Motor de Insights para Planeamento Turístico Sustentável
 # Ano: 2025  
-# Equipa: Abel Chimbua Wanda, Bruno Yonng Leopoldo, Dorivaldo Albano Manuel, Eliano Ricardo A. Tavares, Liliane Patrícia Neto, Mário Délcio da Silva
+# Equipa: Abel Chimbua Wanda, Bruno Yonng Leopoldo, Dorivaldo Albano Manuel, Eliano Ricardo Tavares, José Arão, Liliane Patrícia Neto, Mário Délcio da Silva
 
 
 # Descrição
