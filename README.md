@@ -20,7 +20,6 @@ O sistema combina um **notebook analítico** (para geração e treino de modelos
 
                       
 
-
 # Instalação e Requisitos
 
 ### Dependências Principais
